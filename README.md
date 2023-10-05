@@ -69,5 +69,7 @@ is a Microsoft MVP for Data Platform and an active member of the Columbus Ohio I
 
  <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
 
-[Placeholder link]([https://bit.ly/3F2HfnI](https://www.udocz.com/apuntes/673608/learn-power-bi)https://www.udocz.com/apuntes/673608/learn-power-bi)
+<p>
+ [Download Learn Power BI]([https://www.packtpub.com/free-ebook/learn-power-bi/9781838644482](https://www.udocz.com/apuntes/673608/learn-power-bi))
+</p>
 
