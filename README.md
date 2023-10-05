@@ -1,6 +1,3 @@
-
-
-
 # Learn Power BI - Second Edition
 
 <a href="https://www.packtpub.com/product/learn-power-bi-second-edition/9781801811958"><img src="https://static.packt-cdn.com/products/9781801811958/cover/smaller" alt="Learn Power BI - Second Edition" height="256px" align="right"></a>
@@ -71,4 +68,4 @@ is a Microsoft MVP for Data Platform and an active member of the Columbus Ohio I
 ### Download a free PDF
 
  <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781801811958">https://packt.link/free-ebook/9781801811958 </a> </p>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801811958">[https://packt.link/free-ebook/9781801811958](https://www.udocz.com/apuntes/673608/learn-power-bi)https://www.udocz.com/apuntes/673608/learn-power-bi </a> </p>
